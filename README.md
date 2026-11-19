@@ -2,6 +2,8 @@
 #### Created with Unity
 #### Sprites made by Maeve Devs - [Itch.io page](https://maevedevs.itch.io/farm-rpg)
 
+## Introduction
+
 This is a hobby project serving two purposes. Learning more about scalable codebases and general entertainment. At this moment the project is still being worked on, the development focus therefore lies on building systems rather than content for the game.
 There is a small playable demo available under Releases. That being said, here is some of the content actively being worked on:
 
