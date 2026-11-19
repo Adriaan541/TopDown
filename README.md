@@ -1,5 +1,5 @@
 # Topdown Game
-#### Created with Unity
+#### Created with Unity 6 & C# v9
 #### Sprites made by Maeve Devs - [Itch.io page](https://maevedevs.itch.io/farm-rpg)
 
 ## Introduction
